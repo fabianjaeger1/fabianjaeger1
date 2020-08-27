@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Fabian Jaeger. I am programming an App
+
 <!--
 **fabianjaeger1/fabianjaeger1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
