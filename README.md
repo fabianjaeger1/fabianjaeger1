@@ -1,4 +1,9 @@
-### Hi there 👋
+Building for the fun of it.
+
+#### Education:
+- MSc Physics @ ETH
+- BSc Physics @ UZH
+
 <!--
 **fabianjaeger1/fabianjaeger1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
