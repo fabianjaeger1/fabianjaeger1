@@ -1,4 +1,4 @@
-Building for the fun of it.
+I like to build things
 
 #### Education:
 - MSc Physics @ ETH
